@@ -1,0 +1,5 @@
+*.docx
+data/*
+artifacts/*
+**/__pycache__
+misc/README.md
